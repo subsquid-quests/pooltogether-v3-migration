@@ -18,7 +18,7 @@ This quest is to migrate the [PoolTogether Prize Pool subgraph](https://github.c
 
 | Category         | Skill Level                           | Time required (hours) | Max Participants | Reward                                | Status |
 | ---------------- | ------------------------------------- | --------------------- | ---------------- | ------------------------------------- | ------ |
-| Squid Deployment | $\textcolor{orange}{\textsf{Medium}}$ | ~60                   | 5                | $\textcolor{red}{\textsf{3000tSQD}}$  | open   |
+| Squid Deployment | $\textcolor{orange}{\textsf{Medium}}$ | ~60                   | 5                | $\textcolor{red}{\textsf{750tSQD}}$  | open   |
 
 # Acceptance critera
 
