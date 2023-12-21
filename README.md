@@ -19,7 +19,7 @@ This quest is to migrate the [mainnet deployment](https://github.com/pooltogethe
 
 | Category         | Skill Level                           | Time required (hours) | Reward                                | Status |
 | ---------------- | ------------------------------------- | --------------------- | ------------------------------------- | ------ |
-| Squid Deployment | $\textcolor{orange}{\textsf{Medium}}$ | ~5                   | $\textcolor{red}{\textsf{750tSQD}}$  | open   |
+| Squid Deployment | $\textcolor{orange}{\textsf{Medium}}$ | ~5                   | $\textcolor{red}{\textsf{2250tSQD}}$  | open   |
 
 # Acceptance critera
 
